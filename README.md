@@ -16,12 +16,7 @@ How to build:
 -------------
 This is a maven based project. So standard maven command like ``mvn clean verify`` should work.
 
-How to run:
-------------
-This is standard java project which generates jar. That jar can be used for running application from command line.
-For example run following command from command line ``java -jar NEM12Parser-1.0-SNAPSHOT.jar``.
-
 System Requirements:
 ---------------------
-Java 1.8
-Maven 3.0
+1. Java 1.8
+2. Maven 3.0
